@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação a gente nas redes abaixo!
+  ### Pra conteúdo sobre programação segue agente nas redes abaixo!
  
 <div> 
   <a href="https://instagram.com/Matheuss_s.l" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
